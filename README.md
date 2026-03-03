@@ -3,7 +3,7 @@ My structured Python learning journey.
 
 # Progress
 - [x] Ch 01 - Basic Syntax
-- [ ] Ch 02 - Core Data Types
+- [x] Ch 02 - Core Data Types
 - [ ] Ch 03 - Control Flow
 - [ ] Ch 04 - Iteration & Loops
 - [ ] Ch 05 - Core Data Structures
